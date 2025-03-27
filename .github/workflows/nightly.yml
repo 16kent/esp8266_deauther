@@ -2,6 +2,7 @@ name: Trigger nightly build
 
 on:
   push:
+  workflow_dispatch:
 
 jobs:
 
