@@ -2,12 +2,10 @@
 
 /* Global */
 body {
-	background: #36393e;
-	color: #bfbfbf;
-	font-family: sans-serif;
-	margin: 0;
-        background: linear-gradient(to right, #ff8c00, #ff0080);
-        color: white;
+    background: linear-gradient(to right, #ff8c00, #ff0080); /* Blended gradient */
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
 }
 
 h1 {
